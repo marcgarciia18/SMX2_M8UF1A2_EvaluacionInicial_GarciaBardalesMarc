@@ -47,4 +47,4 @@ CSS  es un lenguaje de diseño utilizado en desarrollo web para controlar el asp
 
 8. Flujo de trabajo (navegador,petición,servidor y respuesta):
 
-![‎ ](https://github.com/marcgarciia18/SMX2_M8UF1A2_EvaluacionInicial_GarciaBardalesMarc/blob/main/Flujo%20de%20trabajo.jpg)
+![U+200E](https://github.com/marcgarciia18/SMX2_M8UF1A2_EvaluacionInicial_GarciaBardalesMarc/blob/main/Flujo%20de%20trabajo.jpg)
